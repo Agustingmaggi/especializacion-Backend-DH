@@ -15,7 +15,7 @@ public class Product {
         this.instance = instance;
     }
 
-    public Product(String id, String s, double v) {
+    public Product(String id, String notebook, double v) {
     }
 
     public String getId() {
